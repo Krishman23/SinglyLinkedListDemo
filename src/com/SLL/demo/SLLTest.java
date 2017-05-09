@@ -25,7 +25,7 @@ public class SLLTest {
 		sll.dispalySLL();
 		sll.removeTail();
 		sll.dispalySLL();
-		sll.removeGreaterThan(41);
+		sll.removeGreaterThan(45);
 		sll.dispalySLL();
 
 	}
